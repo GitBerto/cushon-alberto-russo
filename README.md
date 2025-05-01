@@ -38,7 +38,7 @@ I designed the solution around a straightforward user journey:
 
 #### Architecture
 - Implemented a clean separation of concerns
-- Kept component structure simple but maintainable, with styled components defined alongside JSX in the same files
+- Kept component structure simple but maintainable
 - Created a mock API system that simulates backend data operations
 
 #### SEO & Future Considerations
